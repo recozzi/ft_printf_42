@@ -12,7 +12,7 @@ The 42 school's ft_printf project is a C programming exercise where students are
   <li>Now you are ready to use this library:</li>
   <pre><code>gcc main.c libftprintf.a -o output</code></pre>
 </ol>
-<h2>Features</h2>
+<h3>Features</h3>
 <p>The ft_printf() function supports the following conversions:</p>
 <ul>
   <li><code>%c</code> : Prints a single character.</li>
